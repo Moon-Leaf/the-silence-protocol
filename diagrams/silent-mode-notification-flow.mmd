@@ -1,0 +1,24 @@
+---
+config:
+  theme: neo
+---
+flowchart TD
+    A([User activates Silent Mode]) --> B[Record timestamp and preferences]
+    B --> C[Monitor incoming notifications]
+    C --> D{Silent Mode active?}
+    D -->|Yes| E[Receive new notification]
+    D -->|No| I[Send notification immediately]
+    E --> F{Priority level?}
+    F -->|Critical or Emergency| G[Bypass queue]
+    F -->|Normal or Low| H[Enter pending queue]
+    G --> I
+    H --> J["Mark as delayed, record timestamp"]
+    J --> K{Silent mode ended?}
+    K -->|No| C
+    K -->|Yes or scheduled| L[Process queued notifications]
+    L --> M[Group by category and priority]
+    M --> N[Create structured summary]
+    N --> O[Send batch response to user]
+    I --> P([User receives response])
+    O --> P
+
