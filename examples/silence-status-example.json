@@ -1,0 +1,14 @@
+{
+  "user_id": "usr_8f3k2p",
+  "display_name": "Rania",
+  "silence_status": {
+    "mode": "deep_focus",
+    "active_since": "2026-06-05T09:00:00Z",
+    "active_until": "2026-06-05T11:00:00Z",
+    "message": "In a focus block. I will reply after 11:00.",
+    "next_available_at": "2026-06-05T11:00:00Z",
+    "allow_emergency_contact": true,
+    "emergency_passphrase": "URGENT_SILENCE"
+  },
+  "updated_at": "2026-06-05T09:01:45Z"
+}
