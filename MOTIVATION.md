@@ -1,12 +1,11 @@
+**Author:** MoonLeaf  
+**Contact:** Hyra549@proton.me  
+**Started:** June 5, 2026 
+
+
 # Motivation – The Silence Protocol
 
-**Author:** Moon-Leaf  
-**Contact:** Hyra549@proton.me  
-**Started:** June 5, 2026  
-
----
-
-# 🇬🇧 English
+# English
 
 # Why does this protocol exist?
 
@@ -26,18 +25,13 @@ I also hope that by sharing this idea openly, someday a miracle will happen, eve
 
 "Real noise and emptiness will come without warning." And before that happens, someone has to start speaking. I am starting now.
 
-~ stay sustainable ~ 
+~ stay sustainable ~
+
 ---
 
 # Motivation – The Silence Protocol
 
-**Author:** Moon-Leaf  
-**Contact:** Hyra549@proton.me  
-**Started:** June 5, 2026  
-
----
-
-# 🇮🇩 Bahasa Indonesia
+# Bahasa Indonesia
 
 # Mengapa protokol ini ada?
 
@@ -58,4 +52,5 @@ Saya juga berharap bahwa dengan menuangkan ide ini secara terbuka, kelak akan ad
 "kebisingan dan kekosongan yang nyata akan datang tanpa aba aba". Dan sebelum itu terjadi, seseorang harus mulai bicara. Saya memulainya sekarang.
 
 ~ salam lestari ~ 
+
 ---
