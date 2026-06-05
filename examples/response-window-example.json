@@ -1,0 +1,29 @@
+{
+  "user_id": "usr_8f3k2p",
+  "response_windows": [
+    {
+      "day": "weekday",
+      "windows": [
+        {
+          "label": "Morning check-in",
+          "start": "08:30",
+          "end": "09:00",
+          "timezone": "Asia/Jakarta"
+        },
+        {
+          "label": "Afternoon check-in",
+          "start": "13:00",
+          "end": "13:30",
+          "timezone": "Asia/Jakarta"
+        }
+      ]
+    },
+    {
+      "day": "weekend",
+      "windows": []
+    }
+  ],
+  "outside_window_behavior": "queue",
+  "queue_delivery_at": "next_window_start",
+  "version": "1.0"
+}
