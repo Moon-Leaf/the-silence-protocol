@@ -29,7 +29,6 @@ There is no psychological manipulation.
 
 This is not about rejecting technology. But it is about turning on and returning humans back to the point of humanity.
 
-Moonleaf, june 2026
 ~ stay sustainable ~
 
 ---
@@ -63,5 +62,4 @@ Tidak ada manipulasi psikologis.
 
 Ini bukan tentang menolak sebuah teknologi. Tetapi, ini tentang menyalakan dan mengembalikan kembali manusia ke titik kemanusiaan.
 
-Moon-leaf, juni 2026
 ~ salam lestari ~
